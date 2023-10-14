@@ -1,2 +1,2 @@
-# repo.1
+# algorithm for grade checker
 This is my first repository
