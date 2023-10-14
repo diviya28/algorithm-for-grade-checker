@@ -1,0 +1,12 @@
+ALGORITHM:
+
+step 1:Start
+step 2:Get value from the user and assign as score
+step 3:Check if score >= 80
+    3.1:Display 'A' grade
+step 4:Check if 60 <= score < 80  
+    4.1:Display 'B' grade
+step 5:Check if 50 <= score < 60
+    5.1:Display 'C' grade
+step 6:Else display fail.
+step 7:Stop
